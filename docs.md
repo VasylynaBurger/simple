@@ -1,4 +1,4 @@
-This documentation describes how to use the Pako robotic
+This documentation describes how to use the Pako automatic
 toothbrush.
 
 Note that this toothbrush is totally safe to use for children,
